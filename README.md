@@ -21,7 +21,7 @@ sudo git clone https://github.com/arbaz686/my-ecommerce-website.git
 Windows:
 
 ```bash
-git clone [https://github.com/codewithsadee/My-ecommerce-website.git](https://github.com/arbaz686/my-ecommerce-website.git)
+git clone https://github.com/arbaz686/my-ecommerce-website.git
 ```
 
 ## Contact
