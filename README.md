@@ -2,11 +2,6 @@
 
 My is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Demo
-
-![My Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![My Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -15,18 +10,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing My
 
-To install **My**, follow these steps:
+To install **this e-commerce website**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/My-ecommerce-website.git
+sudo git clone https://github.com/arbaz686/my-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/My-ecommerce-website.git
+git clone [https://github.com/codewithsadee/My-ecommerce-website.git](https://github.com/arbaz686/my-ecommerce-website.git)
 ```
 
 ## Contact
